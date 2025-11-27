@@ -33,7 +33,7 @@ O projeto foi desenvolvido ao longo de seis meses, permitindo aos membros do gru
 </div>
 
 <div align="center">
-  <img src="" width="600">
+  <img src="https://github.com/Renatovisk472/Origomnite-A-Ascensao-da-Magia/blob/main/Lana_Personagem001.png?raw=true" width="600">
 </div>
 
 <div align="center">
