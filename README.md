@@ -1,4 +1,4 @@
-# Origomnite-A-Ascens-o-da-Magia
+# Origomnite-A-Ascensao-da-Magia
 Origomnite: A Ascensão da Magia é um jogo digital desenvolvido por mim e por meus colegas
 
 Origomnite é um projeto de jogo desenvolvido como Trabalho de Conclusão de Curso no terceiro ano do ensino médio, com o objetivo de aprovação no curso técnico de Programação em Jogos Digitais. Foi entregue uma demonstração jogável em 3D, aplicando todo o conhecimento adquirido ao longo do ensino médio e do curso técnico, recebendo assim aprovação máxima (MB - Muito Bom) da banca avaliadora
@@ -14,3 +14,5 @@ Tecnologias utilizadas:
  - Blender (para modelagem 3D)
 
  - Krita (para arte 2D)
+
+ - ![Foto da Lana, personagem principal do jogo.]()
