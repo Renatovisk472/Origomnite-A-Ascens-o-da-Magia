@@ -20,3 +20,21 @@ Tecnologias utilizadas:
  ![image alt](https://github.com/Renatovisk472/Origomnite-A-Ascens-o-da-Magia/blob/main/Origomnite.png?raw=true)
  - ![image alt](https://github.com/Renatovisk472/Origomnite-A-Ascens-o-da-Magia/blob/main/Lana_Personagem001.png?raw=true)
  ![image alt](https://github.com/Renatovisk472/Origomnite-A-Ascens-o-da-Magia/blob/main/Junin_Personagem001.png?raw=true)
+
+## Desenvolvido por:
+
+Carlos Henrique Kengi Cerqueira Aoki
+
+Felipe Akahoshi de Sousa
+
+Gabriel do Espírito Santo Trigo
+
+Gabriel Zaragoza
+
+Giulia Carvalho Campanholi
+
+Isabella Francine da Silva Costa
+
+Leonardo Gusmão Moura
+
+Renato Livramento Alves da Silva
