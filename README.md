@@ -15,4 +15,4 @@ Tecnologias utilizadas:
 
  - Krita (para arte 2D)
 
- - ![Foto da Lana, personagem principal do jogo.]()
+ - ![image alt](https://github.com/Renatovisk472/Origomnite-A-Ascens-o-da-Magia/blob/main/Lana_Personagem001.png?raw=true)
